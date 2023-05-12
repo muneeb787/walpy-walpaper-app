@@ -31,7 +31,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/<your-username>/wallpaper-app.git
+git clone [https://github.com/<your-username>/wallpaper-app.git](https://github.com/muneeb787/walpy-walpaper-app.git)
 ```
 
 2. Install the required packages and dependencies:
