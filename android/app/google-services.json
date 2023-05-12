@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731649633441",
+    "project_id": "walpy-e7639",
+    "storage_bucket": "walpy-e7639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731649633441:android:851e197fe468257534d4e0",
+        "android_client_info": {
+          "package_name": "com.example.walpy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731649633441-lddr8dbsp05khigfrigjq121136p7p76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrJ_OYRW2reQskE20rQlGFKSyAT7y8T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731649633441-lddr8dbsp05khigfrigjq121136p7p76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
