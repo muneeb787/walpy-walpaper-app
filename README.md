@@ -22,7 +22,7 @@ A mobile wallpaper app built using Flutter, the Unsplash API, and Firebase authe
 
 ## Screenshots
 
-![Screenshot 1]([/screenshots/screenshot1.png](https://github.com/muneeb787/walpy-walpaper-app/assets/133331694/6ab70274-b63d-4b9e-a256-1f703a988f48))
+![Screenshot 1](https://github.com/muneeb787/walpy-walpaper-app/assets/133331694/6ab70274-b63d-4b9e-a256-1f703a988f48)
 ![Screenshot 2]([/screenshots/screenshot2.png](https://github.com/muneeb787/walpy-walpaper-app/assets/133331694/41ba8b49-f269-4701-97d2-95264a984c66))
 ![Screenshot 3](/screenshots/screenshot3.png)
 
